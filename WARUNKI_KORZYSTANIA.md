@@ -2,9 +2,9 @@
 
 Ostatnia aktualizacja: 16.07.2026
 
-Niniejsze Warunki Korzystania ("Warunki") określają zasady korzystania z
-bota Discord **GTF Bot** ("Bot") działającego na serwerze **GKS Tychy
-Fanatics** ("Serwer"). Korzystając z Bota lub Serwera, akceptujesz poniższe
+Niniejsze Warunki Korzystania określają zasady korzystania z
+bota Discord działającego na serwerze **GKS Tychy
+Fanatics**. Korzystając z Bota lub Serwera, akceptujesz poniższe
 zasady. Jeśli się z nimi nie zgadzasz, prosimy o zaprzestanie korzystania z
 Bota i/lub opuszczenie Serwera.
 
