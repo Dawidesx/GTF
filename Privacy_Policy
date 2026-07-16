@@ -1,0 +1,136 @@
+# Privacy Policy — GTF Bot (GKS Tychy Fanatics)
+
+Last updated: 2026-07-16
+
+This Privacy Policy explains what data the **GTF Bot**  collects and
+processes on the **GKS Tychy Fanatics** Discord server, how that
+data gets used, and what rights you have over it.
+
+By using the Server and/or the Bot, you're agreeing to what's below.
+
+## 1. Who's responsible for your data
+
+The person running the Server and the Bot acts as the data controller.
+
+For anything data-related, reach out at:
+**blokxx.ts@gmail.com**
+
+## 2. What gets collected
+
+The Bot runs on Discord's official API and only touches what it actually
+needs to do its job. Depending on which features you use, that can include:
+
+- **Basic Discord account info** — your user ID, username/tag, avatar,
+  account creation date, and when you joined the Server (Discord hands this
+  to the Bot automatically through its API).
+- **Roles and verification status** — whether you clicked the verification
+  button and got the matching role.
+- **Support tickets** — whatever you write inside a private ticket channel,
+  visible to the mods handling that ticket.
+- **Moderation logs** — in a private mod channel, the Bot logs things like
+  the content and attachments of deleted messages (this is how it catches
+  abuse and helps with moderation), warnings, mutes, kicks and bans, and the
+  account age of people joining the Server (an anti-raid check).
+- **Permanent ban list** — a user ID plus a reason, kept if someone gets
+  permanently banned from the Server.
+- **Virtual currency** — a user ID tied to a "balance" used by the Bot's
+  fun/economy features (this currency doesn't exist outside the Server —
+  see the Terms of Service).
+- **Giveaway entries** — whether you entered a giveaway run through the Bot.
+- **Music search queries** — whatever you type into `/graj` or similar
+  commands (a song title, a link) gets sent to external Lavalink servers and
+  services like YouTube so the Bot can find and play it (more on this in
+  section 4).
+
+The Bot does **not** collect passwords, payment details, IP addresses, or
+anything else unrelated to using Discord.
+
+## 3. Why this data is processed
+
+Only for:
+
+- keeping the Server safe and orderly (moderation, anti-raid, the permanent
+  ban list),
+- handling user requests through the ticket system,
+- verifying new members,
+- running the community features (virtual economy, giveaways, match
+  commands),
+- playing music when someone asks for it,
+- keeping the Bot running in general.
+
+## 4. Third parties
+
+The Bot relies on a few external services to work:
+
+- **Discord Inc.** — the platform the Bot runs on, covered by
+  [Discord's own Privacy Policy](https://discord.com/privacy).
+- **Public Lavalink servers** — independent, external servers used to look
+  up and stream audio. These aren't run by the Bot's owner, they change from
+  time to time, and there's no full control over them. Song queries (title,
+  link) are only sent there to carry out a music command.
+- **YouTube / Google** — the source of metadata and audio for music
+  commands.
+- **Publicly available sports websites** — used to pull GKS Tychy's match
+  schedule; no user data is ever sent there.
+
+The owner doesn't sell or hand over user data for marketing purposes.
+
+## 5. How long data is kept
+
+- Operational data (the ban list, ticket counters, virtual economy
+  balances, panel messages) stays in the Bot's data files until it's
+  manually removed by the owner, or until it's no longer needed (e.g. you
+  leave the Server).
+- Moderation logs stay in the private mod channel until the Server's admin
+  team deletes them.
+- Data gets removed promptly on a reasonable request, unless there's a
+  legitimate reason to keep it around (an ongoing dispute, an active
+  sanction, that sort of thing).
+
+## 6. Legal basis
+
+Data is processed based on:
+
+- legitimate interest (GDPR Art. 6(1)(f)) — keeping the Server and the Bot
+  safe and functioning properly,
+- consent given by joining the Server and using the Bot's commands
+  (GDPR Art. 6(1)(a)).
+
+## 7. Your rights
+
+Under GDPR you can:
+
+- access your data,
+- have it corrected,
+- have it deleted ("right to be forgotten"),
+- restrict how it's processed,
+- object to processing,
+- request data portability,
+- file a complaint with your national data protection authority (in Poland,
+  the President of the Personal Data Protection Office — UODO).
+
+To use any of these, email the address in section 1. Leaving the Server and
+asking for the archived data (mod logs, economy balance, etc.) to be wiped
+covers most of it in practice.
+
+## 8. Data security
+
+Data is kept in files and channels only the Server's admin team can access.
+Only people with a moderation/admin role can see it.
+
+## 9. Age requirements
+
+Using Discord — and by extension the Bot — is only allowed under
+[Discord's Terms](https://discord.com/terms), which set a minimum age
+(generally 13, higher in some countries).
+
+## 10. Changes to this policy
+
+This Policy may change as the Bot evolves. Any major changes will be
+announced on the Server. The date at the top of this document reflects the
+last update.
+
+## 11. Contact
+
+For anything about this Policy or your data, write to:
+**blokxx.ts@gmail.com**
