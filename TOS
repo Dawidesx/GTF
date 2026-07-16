@@ -1,0 +1,115 @@
+# Terms of Service — GTF Bot (GKS Tychy Fanatics)
+
+Last updated: 2026-07-16
+
+These Terms of Service cover how you're allowed to use the
+**GTF Bot** on the **GKS Tychy Fanatics** Discord server.
+Using the Bot or the Server means you agree to what's below — if you don't,
+please stop using the Bot and/or leave the Server.
+
+These Terms sit alongside, not instead of, the Server's own community rules
+(check `/regulamin` on the Server) and [Discord's Terms of Service](https://discord.com/terms).
+
+## 1. What this Server actually is
+
+GKS Tychy Fanatics is a gathering place for GKS Tychy supporters, run and
+moderated independently by the Server's admin team. Unless stated otherwise,
+neither the Server nor the Bot is an official channel of GKS Tychy S.A. —
+this is a fan-run community project.
+
+## 2. Agreeing to these Terms
+
+Adding the Bot, joining the Server, or using any of its commands means you
+accept these Terms and the Privacy Policy (`PRIVACY_POLICY.md`).
+
+## 3. What the Bot does
+
+Among other things, the Bot handles:
+
+- **Verification** for new members via a role-granting button,
+- A **ticket system** for reaching admins/mods,
+- **Moderation** — warnings, mutes, kicks, bans, and a raid/spam detection
+  mechanism,
+- A **virtual economy** — points/currency used in the Server's fun features,
+- **Giveaways** and daily community bits (like a "question of the day" or
+  "hit or miss" post),
+- **Match commands** — info on GKS Tychy's upcoming games,
+- **Music playback** in voice channels.
+
+The owner can add, change, or drop any Bot feature at any time, without
+advance notice.
+
+## 4. Virtual economy and points
+
+Any points, "currency", or similar resource the Bot hands out through its
+fun features:
+
+- have no real-world or monetary value,
+- can't be exchanged for money, goods, or services outside the Server,
+- can be reset, changed, or wiped at any time, without compensation —
+  particularly in case of a bug, abuse, or a change to how the feature
+  works.
+
+## 5. Music feature
+
+Music playback relies on external, public Lavalink servers and services
+like YouTube, none of which the Bot's owner controls. Because of that:
+
+- the music feature may go down or act up from time to time for reasons
+  outside the owner's control,
+- there's no guarantee it'll run without interruption,
+- if you use the music commands, you're responsible for respecting
+  copyright on whatever gets played — the Bot is just a middleman that
+  finds and plays audio on request.
+
+## 6. Rules of use and moderation
+
+By using the Bot, you agree not to:
+
+- use it for anything illegal or against Discord's Terms or the Server's
+  own rules,
+- try to disrupt how it runs (command spam, attempts to overload it,
+  exploiting bugs in bad faith, etc.),
+- try to get around moderation (e.g. alt accounts to dodge a ban).
+
+The Server's admin team can apply sanctions — warnings, mutes, kicks, and
+permanent bans — at their discretion, based on the Server's rules, for
+violating these Terms or community guidelines.
+
+## 7. No warranty, limited liability
+
+The Bot is provided "as is," with no guarantee of uninterrupted or
+error-free operation.
+
+To the fullest extent the law allows, the owner isn't liable for:
+
+- downtime, including from outages on Discord, Lavalink, YouTube, or other
+  third-party services,
+- loss of data the Bot stores (economy balances, giveaway results, etc.),
+- any indirect or consequential damages arising from using, or being
+  unable to use, the Bot.
+
+## 8. Intellectual property
+
+The Bot's source code, name, and any graphics belong to the Bot's owner,
+unless stated otherwise. Using the Bot doesn't transfer any of that
+ownership to you.
+
+## 9. Changes to these Terms
+
+These Terms may be updated as the Bot and Server evolve. Continuing to use
+the Bot after a change means you accept it. Any major changes will be
+announced on the Server.
+
+## 10. Ending your use
+
+You can stop using the Bot and/or leave the Server whenever you want. The
+admin team can restrict or block someone's access to the Bot and/or Server
+for violating these Terms or the Server's rules.
+
+## 11. Governing law and contact
+
+These Terms are governed by Polish law. Anything not covered here falls
+back to applicable law and Discord's own Terms of Service.
+
+Questions about these Terms: **blokxx.ts@gmail.com**
